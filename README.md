@@ -87,8 +87,4 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 - [Nodemailer](https://nodemailer.com/)
 ```
 
-### Instructions for Use:
-- You can copy this markdown and paste it directly into your `README.md` file.
-- Adjust the sections as needed to reflect your project's specifics or additional information you may want to include.
 
-Let me know if you need further changes or additional details!
