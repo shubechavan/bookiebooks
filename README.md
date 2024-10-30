@@ -85,6 +85,6 @@ Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 - [Mongoose](https://mongoosejs.com/)
 - [JSON Web Tokens](https://jwt.io/)
 - [Nodemailer](https://nodemailer.com/)
-```
+
 
 
